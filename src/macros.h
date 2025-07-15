@@ -1,0 +1,1 @@
+#define len(arr) (sizeof(arr) / sizeof(arr[0]))

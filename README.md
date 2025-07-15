@@ -1,5 +1,6 @@
-# godot-cpp template
-This repository serves as a quickstart template for GDExtension development with Godot 4.0+.
+I decided to work on this to help myself move to a more data-oriented design for my Godot Project. I don't have a lot mapped out yet, but will update evenutually.
+
+~~# godot-cpp template
 
 ## Contents
 * An empty Godot project (`demo/`)
@@ -38,3 +39,4 @@ scons compiledb=yes compile_commands.json
 
 This repository comes with a GitHub action that builds the GDExtension for cross-platform use. It triggers automatically for each pushed change. You can find and edit it in [builds.yml](.github/workflows/builds.yml).
 After a workflow run is complete, you can find the file `godot-cpp-template.zip` on the `Actions` tab on GitHub.
+~~
